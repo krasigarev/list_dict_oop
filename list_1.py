@@ -1,4 +1,4 @@
-temperature = [20, 21, 20, 25, 19]
+temperature = [20, 21, 20, 25, "Hi"]
 
 for temp in temperature:
     print(temp)
