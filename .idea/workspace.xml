@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="learn list in python">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="compare values">
       <change beforePath="$PROJECT_DIR$/compare_str_int_float.py" beforeDir="false" afterPath="$PROJECT_DIR$/compare_str_int_float.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.list_1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.compare_str_int_float.executor": "Run",
+    "Python.list_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.compare_str_int_float">
     <configuration name="compare_str_int_float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -157,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722410752252</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="compare values">
+      <option name="closed" value="true" />
+      <created>1722411636835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722411636835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +182,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="list in python" />
     <MESSAGE value="learn list in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn list in python" />
+    <MESSAGE value="compare values" />
+    <option name="LAST_COMMIT_MESSAGE" value="compare values" />
   </component>
 </project>
