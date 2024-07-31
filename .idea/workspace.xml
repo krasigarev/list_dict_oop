@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="data list append">
+    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="data list sort and sorted">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/smallest item in list.py" beforeDir="false" afterPath="$PROJECT_DIR$/smallest item in list.py" afterDir="false" />
     </list>
@@ -254,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722431799145</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="data list sort and sorted">
+      <option name="closed" value="true" />
+      <created>1722434165623</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722434165623</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +281,7 @@
     <MESSAGE value="learn list in python" />
     <MESSAGE value="compare values" />
     <MESSAGE value="data list append" />
-    <option name="LAST_COMMIT_MESSAGE" value="data list append" />
+    <MESSAGE value="data list sort and sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="data list sort and sorted" />
   </component>
 </project>
