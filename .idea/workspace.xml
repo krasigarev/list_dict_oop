@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="rotate List of strings">
-      <change afterPath="$PROJECT_DIR$/count odd  number of list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="remove List index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -352,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722437368315</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="remove List index">
+      <option name="closed" value="true" />
+      <created>1722441532077</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722441532077</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +377,7 @@
     <MESSAGE value="data list append" />
     <MESSAGE value="data list sort and sorted" />
     <MESSAGE value="rotate List of strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="rotate List of strings" />
+    <MESSAGE value="remove List index" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove List index" />
   </component>
 </project>
