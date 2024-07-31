@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="data list sort and sorted">
+    <list default="true" id="aca62cc5-5abb-403b-8577-60e55f96550a" name="Changes" comment="rotate List of strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smallest item in list.py" beforeDir="false" afterPath="$PROJECT_DIR$/smallest item in list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.compare_str_int_float.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smallest item in list.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.compare_str_int_float.executor": "Run",
+    "Python.list_1.executor": "Run",
+    "Python.smallest item in list.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.task_1">
     <configuration name="compare_str_int_float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -293,7 +294,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722435135790</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="rotate List of strings">
+      <option name="closed" value="true" />
+      <created>1722435868045</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722435868045</updated>
+    </task>
+    <task id="LOCAL-00015" summary="rotate List of strings">
+      <option name="closed" value="true" />
+      <created>1722435998725</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722435998725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="rotate List of strings">
+      <option name="closed" value="true" />
+      <created>1722436030533</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722436030533</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +338,7 @@
     <MESSAGE value="compare values" />
     <MESSAGE value="data list append" />
     <MESSAGE value="data list sort and sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="data list sort and sorted" />
+    <MESSAGE value="rotate List of strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="rotate List of strings" />
   </component>
 </project>
