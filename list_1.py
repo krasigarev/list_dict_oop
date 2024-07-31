@@ -7,15 +7,24 @@
 #     print(temperature[index])
 
 
-# Multiply a List of Integers
+# Multiply a List of Integers version 1
 
-data_list = input().split(" ")
+# data_list = input().split(" ")
+# p = int(input())
+#
+# numbers_list = []
+#
+# for el in data_list:
+#     numbers_list.append(int(el) * p)
+#
+# print(data_list)
+# print(numbers_list)
+
+
+# Multiply a List of Integers version 2
+
+data_list_1 = list(map(int, input().split(" ")))
 p = int(input())
 
-numbers_list = []
-
-for el in data_list:
-    numbers_list.append(int(el) * p)
-
-print(data_list)
-print(numbers_list)
+a = 4 * data_list_1
+print(a)
